@@ -8,7 +8,7 @@ A Explorer and programming enthusiast
 
 
 
-[![Gmail Badge](https://img.shields.io/badge/-mmirthula02@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:singhripunjay09@gmail.com)](mailto:singhripunjay09@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-singhripunjay09@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:singhripunjay09@gmail.com)](mailto:singhripunjay09@gmail.com)
 
 
 
