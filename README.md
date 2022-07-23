@@ -39,8 +39,8 @@ A Explorer and programming enthusiast
 ### Contact me
 
 <p align="left">
-  <a href="https://www.instagram.com/_rpj09_/?hl=en" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Mirthula" height="60" width="45" /></a> &nbsp;&nbsp;
-<a href="https://twitter.com/mmirthula02" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Mirthula" height="60" width="45" /></a> &nbsp;&nbsp;
+  <a href="https://www.instagram.com/_rpj09_/?hl=en" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rpj09/rpj09/db6fd1f77f0d220473dc51a7ac4155a61dfc651e/icons/instagram.svg" alt="Ripunjay" height="60" width="45" /></a> &nbsp;&nbsp;
+<a href="https://twitter.com/_rpj09_" target="_blank"><img align="center" src="https://https://raw.githubusercontent.com/rpj09/rpj09/db6fd1f77f0d220473dc51a7ac4155a61dfc651e/icons/twitter.svg"  alt="Ripunjay" height="60" width="45" /></a> &nbsp;&nbsp;
 
 </p>
 
