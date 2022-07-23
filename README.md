@@ -21,7 +21,7 @@ A Explorer and programming enthusiast
 
 
 
-![Mirthula's Github Stats](https://github-readme-stats.vercel.app/api?username=rpj09&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+![Ripunjay's Github Stats](https://github-readme-stats.vercel.app/api?username=rpj09&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
 
 
@@ -40,7 +40,7 @@ A Explorer and programming enthusiast
 
 <p align="left">
   <a href="https://www.instagram.com/_rpj09_/?hl=en" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rpj09/rpj09/db6fd1f77f0d220473dc51a7ac4155a61dfc651e/icons/instagram.svg" alt="Ripunjay" height="60" width="45" /></a> &nbsp;&nbsp;
-<a href="https://twitter.com/_rpj09_" target="_blank"><img align="center" src="https://https://raw.githubusercontent.com/rpj09/rpj09/db6fd1f77f0d220473dc51a7ac4155a61dfc651e/icons/twitter.svg"  alt="Ripunjay" height="60" width="45" /></a> &nbsp;&nbsp;
+<a href="https://twitter.com/_rpj09_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rpj09/rpj09/e647111b9aad7836af57b3130ee125554e15f5dc/icons/twitter.svg"  alt="Ripunjay" height="60" width="45" /></a> &nbsp;&nbsp;
 
 </p>
 
