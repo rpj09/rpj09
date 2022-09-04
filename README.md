@@ -30,7 +30,14 @@ A Explorer and programming enthusiast
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rpj09&repo=FRIDAY-virtual-assistant&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
+
+<a href="https://github.com/rpj09/Portfolio_website_using_python">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rpj09&repo=Portfolio_website_using_python
+&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
 <br>
+
 
 ## &#x1f4c8; GitHub Stats
 
@@ -45,7 +52,7 @@ A Explorer and programming enthusiast
 </a>
 
 
-<br>
+
 <br>
 
 
@@ -53,6 +60,7 @@ A Explorer and programming enthusiast
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Linux-informational?style=flat&logo=Linux&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Bash-informational?style=flat&logo=Bash&logoColor=white&color=4AB197)
 
 
 ### Languages and tools :<img src="https://camo.githubusercontent.com/40dff491d4e8123af55298ef908faedb66c463e5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="39px">
@@ -61,6 +69,7 @@ A Explorer and programming enthusiast
 - Python
 - MySQL
 - Linux
+- Bash scripting
 
 
 
