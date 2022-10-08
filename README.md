@@ -34,9 +34,8 @@ A Explorer and programming enthusiast
 </a>
 
 
-<a href="https://github.com/rpj09/Portfolio_website_using_python">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rpj09&repo=Portfolio_website_using_python
-&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/rpj09/Portfolio">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rpj09&repo=Portfolio&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
