@@ -81,7 +81,7 @@ A Explorer and programming enthusiast
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Linux-informational?style=flat&logo=Linux&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Bash-informational?style=flat&logo=Bash&logoColor=white&color=4AB197)
-
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Bash&logoColor=white&color=4AB197)
 
 ### Languages and tools :<img src="https://camo.githubusercontent.com/40dff491d4e8123af55298ef908faedb66c463e5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="39px">
 
