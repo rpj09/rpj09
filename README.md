@@ -29,8 +29,7 @@ A Explorer and programming enthusiast
 
 ## My Portfolio Website :
 
-
-👉 https://rpj-dev.streamlit.app/ 👈
+[![Gmail Badge](https://img.shields.io/badge/-MY_PERSONAL_PORTFOLIO-c14438?style=flat-square&logo=PORTFOLIO&logoColor=white&link=https://rpj-dev.streamlit.app/)](https://rpj-dev.streamlit.app/)
 
 
 ### CONTRIBUTION
