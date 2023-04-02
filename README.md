@@ -45,7 +45,7 @@ A Explorer and programming enthusiast
 <br>
 
 <a href="https://github.com/rpj09/FRIDAY-virtual-assistant">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rpj09&repo=FRIDAY-virtual-assistant&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rpj09&repo=FRIDAY-virtual-assistant&show_icons=true&theme=tokyonight&hide_border=true" />
 </a>
 
 
@@ -54,16 +54,15 @@ A Explorer and programming enthusiast
 <br>
 
 <a href="https://github.com/rpj09/WSA">
-  <img align="centre" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rpj09&repo=WSA&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="centre" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rpj09&repo=WSA&show_icons=true&theme=tokyonight&hide_border=true" />
 </a>
-
 
 <br>
 
 <br>
 
 <a href="https://github.com/rpj09/Portfolio">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rpj09&repo=Portfolio&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rpj09&repo=Portfolio&show_icons=true&theme=tokyonight&hide_border=true" />
 </a>
 
 <br>
@@ -73,12 +72,12 @@ A Explorer and programming enthusiast
 
 
 
-![Ripunjay's Github Stats](https://github-readme-stats.vercel.app/api?username=rpj09&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34)
+![Ripunjay's Github Stats](https://github-readme-stats.vercel.app/api?username=rpj09&show_icons=true&line_height=27&count_private=true&theme=tokyonight&hide_border=true)
 
 
 
 <a href="https://github.com/rpj09">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpj09&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpj09&hide=html,css&theme=tokyonight&hide_border=true" />
 </a>
 
 
@@ -87,22 +86,11 @@ A Explorer and programming enthusiast
 
 
 ## 💼 Skills
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Linux-informational?style=flat&logo=Linux&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Bash-informational?style=flat&logo=Bash&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Bash&logoColor=white&color=4AB197)
-
-### Languages and tools :<img src="https://camo.githubusercontent.com/40dff491d4e8123af55298ef908faedb66c463e5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="39px">
-
-
-- Python
-- MySQL
-- Linux
-- Bash scripting
-
-
-
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&theme=tokyonight&hide_border=true)
+![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&theme=tokyonight&hide_border=true)
+![](https://img.shields.io/badge/Code-Linux-informational?style=flat&logo=Linux&theme=tokyonight&hide_border=true)
+![](https://img.shields.io/badge/Code-Bash-informational?style=flat&logo=Bash&theme=tokyonight&hide_border=true)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Bash&theme=tokyonight&hide_border=true)
 
 
 ### Contact me
