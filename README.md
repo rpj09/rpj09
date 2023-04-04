@@ -52,9 +52,10 @@ A Explorer and programming enthusiast
 
 <br>
 
-<a href="https://github.com/rpj09/WSA">
-  <img align="centre" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rpj09&repo=WSA&show_icons=true&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/rpj09/FRIDAY-virtual-assistant">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rpj09&repo=Gitreverb&show_icons=true&theme=tokyonight&hide_border=true" />
 </a>
+
 
 <br>
 
@@ -65,6 +66,25 @@ A Explorer and programming enthusiast
 </a>
 
 <br>
+
+
+<br>
+
+<a href="https://github.com/rpj09/WSA">
+  <img align="centre" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rpj09&repo=WSA&show_icons=true&theme=tokyonight&hide_border=true" />
+</a>
+
+<br>
+
+<br>
+
+<a href="https://github.com/rpj09/Portfolio">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rpj09&repo=UrbanWorkers&show_icons=true&theme=tokyonight&hide_border=true" />
+</a>
+
+<br>
+
+
 
 
 ## &#x1f4c8; GitHub Stats
