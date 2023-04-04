@@ -25,7 +25,7 @@ A Explorer and programming enthusiast
 
 
 
-![coffee code](https://user-images.githubusercontent.com/51138087/93663687-87a63100-fa1e-11ea-841c-88dbd3e76d02.gif)
+
 
 ## My Portfolio Website :
 
