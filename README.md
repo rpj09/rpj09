@@ -52,7 +52,7 @@ A Explorer and programming enthusiast
 
 <br>
 
-<a href="https://github.com/rpj09/FRIDAY-virtual-assistant">
+<a href="https://github.com/rpj09/Gitreverb">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rpj09&repo=Gitreverb&show_icons=true&theme=tokyonight&hide_border=true" />
 </a>
 
@@ -78,7 +78,7 @@ A Explorer and programming enthusiast
 
 <br>
 
-<a href="https://github.com/rpj09/Portfolio">
+<a href="https://github.com/rpj09/UrbanWorkers">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rpj09&repo=UrbanWorkers&show_icons=true&theme=tokyonight&hide_border=true" />
 </a>
 
