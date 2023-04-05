@@ -102,8 +102,10 @@ A Explorer and programming enthusiast
 
 
 <br>
+<br>
 
-
+![RPJ09's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rpj09&theme=tokyo-night&area=true&hide_border=true)
+<br>
 ## 💼 Skills
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&theme=tokyonight&hide_border=true)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&theme=tokyonight&hide_border=true)
