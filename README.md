@@ -2,9 +2,9 @@
 
 ![Banner](https://github.com/rpj09/rpj09/blob/main/BANNER3.gif)
 
-
+<!--
 A Explorer and programming enthusiast
-
+-->
 
 
 
