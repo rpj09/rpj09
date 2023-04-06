@@ -18,7 +18,7 @@ A Explorer and programming enthusiast
 
 
 
-- 🌱 I’m currently learning Data structures and algorithms
+- 🌱 I’m currently learning Java
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I start working only when my coffee does!!
 
