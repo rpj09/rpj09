@@ -111,7 +111,7 @@ A Explorer and programming enthusiast
 <br>
 
 
-## Skills
+## Skills 🧠
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&theme=tokyonight&hide_border=true)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&theme=tokyonight&hide_border=true)
 ![](https://img.shields.io/badge/Code-Linux-informational?style=flat&logo=Linux&theme=tokyonight&hide_border=true)
