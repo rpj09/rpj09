@@ -27,62 +27,36 @@ A Explorer and programming enthusiast
 
 
 
-## My Portfolio Website :
+## My Portfolio Website :)
 
 [![Gmail Badge](https://img.shields.io/badge/-MY_PERSONAL_PORTFOLIO-c14438?style=?style=for-the-badge&logo=appveyor&logo=PORTFOLIO&logoColor=blue&color=black&link=https://rpj-dev.streamlit.app/)](https://rpj-dev.streamlit.app/)
 
 
-### CONTRIBUTION
+### CONTRIBUTIONS
 [![GitHub Streak](https://streak-stats.demolab.com?user=rpj09&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-### HACKTOBERFEST
+### HACKTOBERFEST 
 
 [![@rpj09's Holopin board](https://holopin.me/rpj09)](https://holopin.io/@rpj09)
 
 ## 📌 Pinned Repositories
-
-<br>
-
-<a href="https://github.com/rpj09/FRIDAY-virtual-assistant">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rpj09&repo=FRIDAY-virtual-assistant&show_icons=true&theme=tokyonight&hide_border=true" />
-</a>
-
-
-<br>
-
-<br>
-
-<a href="https://github.com/rpj09/Gitreverb">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rpj09&repo=Gitreverb&show_icons=true&theme=tokyonight&hide_border=true" />
-</a>
-
-
-<br>
-
-<br>
-
-<a href="https://github.com/rpj09/Portfolio">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rpj09&repo=Portfolio&show_icons=true&theme=tokyonight&hide_border=true" />
-</a>
-
-<br>
-
-
-<br>
-
-<a href="https://github.com/rpj09/WSA">
-  <img align="centre" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rpj09&repo=WSA&show_icons=true&theme=tokyonight&hide_border=true" />
-</a>
-
-<br>
-
-<br>
-
-<a href="https://github.com/rpj09/UrbanWorkers">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rpj09&repo=UrbanWorkers&show_icons=true&theme=tokyonight&hide_border=true" />
-</a>
-
-<br>
+<div style="display:flex; flex-wrap: wrap; justify-content: center;">
+  <a href="https://github.com/rpj09/FRIDAY-virtual-assistant" style="flex: 0 1 calc(50% - 0.5cm); margin: 1cm;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rpj09&repo=FRIDAY-virtual-assistant&show_icons=true&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/rpj09/Gitreverb" style="flex: 0 1 calc(50% - 0.5cm); margin: 1cm; margin-right: 1cm;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rpj09&repo=Gitreverb&show_icons=true&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/rpj09/Portfolio" style="flex: 0 1 calc(50% - 0.5cm); margin: 1cm;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rpj09&repo=Portfolio&show_icons=true&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/rpj09/WSA" style="flex: 0 1 calc(50% - 0.5cm); margin: 1cm; margin-right: 1cm;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rpj09&repo=WSA&show_icons=true&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/rpj09/UrbanWorkers" style="flex: 0 1 calc(50% - 0.5cm); margin: 1cm;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rpj09&repo=UrbanWorkers&show_icons=true&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
 
 
 
