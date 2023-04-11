@@ -2,8 +2,19 @@
 
 ![Banner](https://github.com/rpj09/rpj09/blob/main/BANNER4.gif)
 
+<br />
+<br />
+
+
+![trophy](https://github-profile-trophy.vercel.app/?username=rpj09&rank=B,C,AAA,AA,A,SSS,SS,S&margin-w=80&margin-h=105&no-bg=true&no-frame=true&theme=nord)
+
+<br />
+<br />
+
 
 A Explorer and programming enthusiast
+<br />
+<br />
 
 
 
@@ -16,6 +27,7 @@ A Explorer and programming enthusiast
 
 [![Gmail Badge](https://img.shields.io/badge/-singhripunjay09@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:singhripunjay09@gmail.com)](mailto:singhripunjay09@gmail.com)
 
+<br />
 
 
 - 🌱 I’m currently learning Java
