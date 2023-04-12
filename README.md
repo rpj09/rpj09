@@ -6,7 +6,7 @@
 <br />
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=rpj09&rank=B,C,AAA,AA,A,SSS,SS,S&margin-w=80&margin-h=105&no-bg=true&no-frame=true&theme=nord)
+![trophy](https://github-profile-trophy.vercel.app/?username=rpj09&rank=B,C,AAA,AA,A,SSS,SS,S&margin-w=85&margin-h=105&no-bg=true&no-frame=true&theme=nord)
 
 <br />
 <br />
