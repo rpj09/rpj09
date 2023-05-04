@@ -108,11 +108,21 @@ A Explorer and programming enthusiast
 
 
 ## Skills 🧠
+![](https://img.shields.io/badge/Code-Vim-informational?style=flat&logo=Vim&theme=tokyonight&hide_border=true)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&theme=tokyonight&hide_border=true)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&theme=tokyonight&hide_border=true)
+![](https://img.shields.io/badge/Code-Flask-informational?style=flat&logo=Flask&theme=tokyonight&hide_border=true)
+![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=Django&theme=tokyonight&hide_border=true)
+![](https://img.shields.io/badge/Code-DRF-informational?style=flat&logo=Django&theme=tokyonight&hide_border=true)
 ![](https://img.shields.io/badge/Code-Linux-informational?style=flat&logo=Linux&theme=tokyonight&hide_border=true)
 ![](https://img.shields.io/badge/Code-Bash-informational?style=flat&logo=Bash&theme=tokyonight&hide_border=true)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Bash&theme=tokyonight&hide_border=true)
+![](https://img.shields.io/badge/Code-Android%20Studio-informational?style=flat&logo=Android&theme=tokyonight&hide_border=true)
+![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=Swift&theme=tokyonight&hide_border=true)
+![](https://img.shields.io/badge/Code-Xcode-informational?style=flat&logo=ios&theme=tokyonight&hide_border=true)
+![](https://img.shields.io/badge/Code-Firebase-informational?style=flat&logo=Firebase&theme=tokyonight&hide_border=true)
+![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&theme=tokyonight&hide_border=true)
+![](https://img.shields.io/badge/Code-Postgres-informational?style=flat&logo=Postgresql&theme=tokyonight&hide_border=true)
+
 
 
 ### Contact me
