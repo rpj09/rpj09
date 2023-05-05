@@ -107,7 +107,7 @@ A Explorer and programming enthusiast
 <br>
 
 
-## Skills 🧠
+## Skills :
 ![](https://img.shields.io/badge/Code-Vim-informational?style=flat&logo=Vim&theme=tokyonight&hide_border=true)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&theme=tokyonight&hide_border=true)
 ![](https://img.shields.io/badge/Code-Flask-informational?style=flat&logo=Flask&theme=tokyonight&hide_border=true)
