@@ -57,7 +57,10 @@ A Explorer and programming enthusiast
     <img src="https://github-readme-stats-chrisbinsunny.vercel.app/api/pin/?username=rpj09&repo=FRIDAY-virtual-assistant&show_icons=true&theme=tokyonight&hide_border=true">
   </a>
   
- 
+   <a href="https://github.com/rpj09/WSA">
+    <img src="https://github-readme-stats-chrisbinsunny.vercel.app/api/pin/?username=rpj09&repo=WSA&show_icons=true&theme=tokyonight&hide_border=true" >
+  </a>
+
   
   <a href="https://github.com/rpj09/Gitreverb">
     <img src="https://github-readme-stats-chrisbinsunny.vercel.app/api/pin/?username=rpj09&repo=Gitreverb&show_icons=true&theme=tokyonight&hide_border=true" >
@@ -69,9 +72,6 @@ A Explorer and programming enthusiast
   </a>
   
  
-  <a href="https://github.com/rpj09/WSA">
-    <img src="https://github-readme-stats-chrisbinsunny.vercel.app/api/pin/?username=rpj09&repo=WSA&show_icons=true&theme=tokyonight&hide_border=true" >
-  </a>
 
 
 
