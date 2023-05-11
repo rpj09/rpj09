@@ -3,14 +3,9 @@
 ![Banner](https://github.com/rpj09/rpj09/blob/main/BANNER4.gif)
 
 <br />
-<br />
-
-
-![trophy](https://github-profile-trophy.vercel.app/?username=rpj09&rank=B,C,AAA,AA,A,SSS,SS,S&margin-w=85&margin-h=105&no-bg=true&no-frame=true&theme=nord)
-
-<br />
-<br />
-
+<!--
+// ![trophy](https://github-profile-trophy.vercel.app/?username=rpj09&rank=B,C,AAA,AA,A,SSS,SS,S&margin-w=85&margin-h=105&no-bg=true&no-frame=true&theme=nord)
+-->
 
 A Explorer and programming enthusiast
 <br />
