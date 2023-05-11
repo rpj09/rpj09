@@ -52,34 +52,33 @@ A Explorer and programming enthusiast
 [![@rpj09's Holopin board](https://holopin.me/rpj09)](https://holopin.io/@rpj09)
 
 ## 📌 Pinned Repositories
-<p align="left">
+
   <a href="https://github.com/rpj09/FRIDAY-virtual-assistant">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rpj09&repo=FRIDAY-virtual-assistant&show_icons=true&theme=tokyonight&hide_border=true" style="margin-right: 0.5cm">
+    <img src="https://github-readme-stats-chrisbinsunny.vercel.app/api/pin/?username=rpj09&repo=FRIDAY-virtual-assistant&show_icons=true&theme=tokyonight&hide_border=true">
   </a>
   
  
   
   <a href="https://github.com/rpj09/Gitreverb">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rpj09&repo=Gitreverb&show_icons=true&theme=tokyonight&hide_border=true" style="margin-left: 0.5cm">
+    <img src="https://github-readme-stats-chrisbinsunny.vercel.app/api/pin/?username=rpj09&repo=Gitreverb&show_icons=true&theme=tokyonight&hide_border=true" >
   </a>
-</p>
 
-<p align="left">
+
   <a href="https://github.com/rpj09/Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rpj09&repo=Portfolio&show_icons=true&theme=tokyonight&hide_border=true" style="margin-right: 0.5cm">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rpj09&repo=Portfolio&show_icons=true&theme=tokyonight&hide_border=true" >
   </a>
   
  
   <a href="https://github.com/rpj09/WSA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rpj09&repo=WSA&show_icons=true&theme=tokyonight&hide_border=true" style="margin-left: 0.5cm">
+    <img src="https://github-readme-stats-chrisbinsunny.vercel.app/api/pin/?username=rpj09&repo=WSA&show_icons=true&theme=tokyonight&hide_border=true" >
   </a>
-</p>
 
-<p align="left">
+
+
   <a href="https://github.com/rpj09/UrbanWorkers">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rpj09&repo=UrbanWorkers&show_icons=true&theme=tokyonight&hide_border=true" style="margin-right: 0.5cm">
+    <img src="https://github-readme-stats-chrisbinsunny.vercel.app/api/pin/?username=rpj09&repo=UrbanWorkers&show_icons=true&theme=tokyonight&hide_border=true" >
   </a>
-</p>
+
 
 
 
