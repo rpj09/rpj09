@@ -102,7 +102,7 @@ A Explorer and programming enthusiast
 
 <br>
 
-![RPJ09's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rpj09&theme=tokyo-night&area=true&hide_border=true)
+<!-- ![RPJ09's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rpj09&theme=tokyo-night&area=true&hide_border=true) -->
 <br>
 
 
