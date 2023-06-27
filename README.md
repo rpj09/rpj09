@@ -7,7 +7,8 @@
 // ![trophy](https://github-profile-trophy.vercel.app/?username=rpj09&rank=B,C,AAA,AA,A,SSS,SS,S&margin-w=85&margin-h=105&no-bg=true&no-frame=true&theme=nord)
 -->
 
-A Explorer and programming enthusiast
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=450&size=25&pause=1000&color=B584EE&center=true&width=435&lines=Hi!+Ripunjay+Singh+here.;Computer+Science+Student;Open+source+Enthusiast)](https://git.io/typing-svg)
+
 <br />
 <br />
 
